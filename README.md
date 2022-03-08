@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-   <img src="#" alt="Preview"/>
+   <img src="./Memória.png" alt="Preview"/>
 </p>
 
 <p align="center">

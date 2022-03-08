@@ -91,6 +91,11 @@ h1{
     #gameBoard{
         grid-template: 1fr 1fr 1fr 1fr 1fr / 1fr 1fr 1fr 1fr;
     }
+
+    #parabens{
+        text-align: center;
+        font-size: 2rem;
+    }
 }
 
 @media (max-width: 550px){
